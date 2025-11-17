@@ -1,0 +1,20 @@
+h1 {
+  font-family: sans-serif;
+  color: #070FC9;
+}
+
+p {
+  font-family: sans-serif;
+  color: #070FC9;
+}
+
+li {
+  background-color: rgb(241, 241, 241);
+  border: 1px solid #070FC9;
+  margin-bottom: 5px;
+}
+
+img {
+  max-width: 100%;
+  border: 7px solid #070FC9;
+}
